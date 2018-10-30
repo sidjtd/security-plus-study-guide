@@ -70,4 +70,23 @@ TCP Wrappers, HIDS, NIDS, IPS/IDS, Security hot-fix, Honeypot and Honeynet, Prot
 
 [Man in The Middle attack](https://www.professormesser.com/security-plus/sy0-501/man-in-the-middle/)
 
+[Stateful vs. Stateless Firewalls](https://www.cybrary.it/0p3n/stateful-vs-stateless-firewalls/)
+
 Professor Messer section 1.2 - attack types 
+
+
+Week 4 - 10/29/18 Securing Systems 
+### Week 4 (10/29/18)
+
+#### Read
+- Chapter 5 (System Security Threats)
+- Chapter 6 (Mitigating Security Threats)
+
+#### Assessments
+
+#### Keywords
+Data Encryption, Privilege escalation, Virus, logic bomb, virus, trojan virus, spyware, adware, spam, rootkit, brute-force, botnet, rat, ketlogger, backdoor, ransomware, Bluetooth vulnerbailities, hardware vulnerabilities, software vulnerabilities
+
+#### Additional Resources 
+[Types of system security threats](https://blogs.cisco.com/smallbusiness/the-10-most-common-security-threats-explained)
+
