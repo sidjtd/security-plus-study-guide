@@ -75,8 +75,7 @@ TCP Wrappers, HIDS, NIDS, IPS/IDS, Security hot-fix, Honeypot and Honeynet, Prot
 Professor Messer section 1.2 - attack types 
 
 
-Week 4 - 10/29/18 Securing Systems 
-### Week 4 (10/29/18)
+### Week 4 - 10/29/18 Securing Systems 
 
 #### Read
 - Chapter 5 (System Security Threats)
