@@ -82,6 +82,7 @@ Professor Messer section 1.2 - attack types
 - Chapter 6 (Mitigating Security Threats)
 
 #### Assessments
+https://drive.google.com/drive/u/0/folders/1v3_xPMhmUSKkTS459gnisMv4mRmXGUfa?ogsrc=32
 
 #### Keywords
 Data Encryption, Privilege escalation, Virus, logic bomb, virus, trojan virus, spyware, adware, spam, rootkit, brute-force, botnet, rat, ketlogger, backdoor, ransomware, Bluetooth vulnerbailities, hardware vulnerabilities, software vulnerabilities
