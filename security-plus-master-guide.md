@@ -85,7 +85,7 @@ Professor Messer section 1.2 - attack types
 https://drive.google.com/drive/u/0/folders/1v3_xPMhmUSKkTS459gnisMv4mRmXGUfa?ogsrc=32
 
 #### Keywords
-Data Encryption, Privilege escalation, Virus, logic bomb, virus, trojan virus, spyware, adware, spam, rootkit, brute-force, botnet, rat, ketlogger, backdoor, ransomware, Bluetooth vulnerbailities, hardware vulnerabilities, software vulnerabilities
+Data Encryption, Privilege escalation, Virus, logic bomb, virus, trojan virus, spyware, adware, spam, rootkit, brute-force, botnet, rat, keylogger, backdoor, ransomware, Bluetooth vulnerabilities, hardware vulnerabilities, software vulnerabilities
 
 #### Additional Resources 
 [Types of system security threats](https://blogs.cisco.com/smallbusiness/the-10-most-common-security-threats-explained)
